@@ -1,0 +1,25 @@
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:53 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 15:45:56 America/Chicago] PHP Warning:  Illegal string offset 'tx_empresa' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 55
+[02-Sep-2018 18:10:23 America/Chicago] PHP Fatal error:  Call to undefined function int() in /home/agenc215/agilexray.agenciajudito.com/admin/frm_cargo.php on line 45
+[02-Sep-2018 18:19:00 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php on line 14
+[02-Sep-2018 18:20:33 America/Chicago] PHP Fatal error:  Call to a member function prepare() on null in /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php on line 14
+[02-Sep-2018 18:20:56 America/Chicago] PHP Warning:  require_once(class/conexao.php): failed to open stream: No such file or directory in /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php on line 2
+[02-Sep-2018 18:20:56 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'class/conexao.php' (include_path='.:/opt/php56/lib/php') in /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php on line 2
+[09-Sep-2018 08:15:46 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/frm_diagnosticos.php on line 22
+[09-Sep-2018 08:38:01 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/agenc215/agilexray.agenciajudito.com/admin/lista_eixos.php on line 54
+[09-Sep-2018 08:45:57 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/lista_planos.php on line 46
+[09-Sep-2018 12:42:36 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perguntas.php on line 49
+[09-Sep-2018 12:48:45 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/lista_perfis.php on line 51
+[09-Sep-2018 19:34:11 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/login.php on line 8
+[09-Sep-2018 19:34:51 America/Chicago] PHP Fatal error:  Call to a member function fetch() on boolean in /home/agenc215/agilexray.agenciajudito.com/admin/login.php on line 8
+[12-Nov-2018 06:50:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php:184) in /home/agenc215/agilexray.agenciajudito.com/admin/insert_registers.php on line 202

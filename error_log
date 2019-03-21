@@ -1,0 +1,19 @@
+[05-Jan-2019 14:43:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/agenc215/agilexray.agenciajudito.com/_lib/functions.php on line 8
+[05-Jan-2019 14:44:18 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/agenc215/agilexray.agenciajudito.com/_lib/functions.php on line 8
+[05-Jan-2019 15:15:44 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home/agenc215/agilexray.agenciajudito.com/diagnostico.php on line 60
+[05-Jan-2019 15:18:52 America/Chicago] PHP Parse error:  syntax error, unexpected '"select * from agile_diagnosti' (T_CONSTANT_ENCAPSED_STRING) in /home/agenc215/agilexray.agenciajudito.com/diagnostico.php on line 74
+[05-Jan-2019 15:29:17 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/agenc215/agilexray.agenciajudito.com/login_respondente.php on line 41
+[05-Jan-2019 15:29:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agenc215/agilexray.agenciajudito.com/login_respondente.php:41) in /home/agenc215/agilexray.agenciajudito.com/login_respondente.php on line 43
+[05-Jan-2019 15:36:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agenc215/agilexray.agenciajudito.com/login_respondente.php:9) in /home/agenc215/agilexray.agenciajudito.com/login_respondente.php on line 30
+[05-Jan-2019 15:36:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/agenc215/agilexray.agenciajudito.com/login_respondente.php:9) in /home/agenc215/agilexray.agenciajudito.com/login_respondente.php on line 46
+[05-Jan-2019 17:10:09 America/Chicago] PHP Warning:  require_once(_incs/conexao.php): failed to open stream: No such file or directory in /home/agenc215/agilexray.agenciajudito.com/login_header.php on line 3
+[05-Jan-2019 17:10:09 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '_incs/conexao.php' (include_path='.:/opt/php56/lib/php') in /home/agenc215/agilexray.agenciajudito.com/login_header.php on line 3
+[05-Jan-2019 17:10:33 America/Chicago] PHP Warning:  require_once(_incs/conexao.php): failed to open stream: No such file or directory in /home/agenc215/agilexray.agenciajudito.com/login_header.php on line 3
+[05-Jan-2019 17:10:33 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '_incs/conexao.php' (include_path='.:/opt/php56/lib/php') in /home/agenc215/agilexray.agenciajudito.com/login_header.php on line 3
+[14-Feb-2019 09:05:47 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_geral.php on line 27
+[18-Feb-2019 07:15:46 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 26
+[18-Feb-2019 07:15:49 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 26
+[18-Feb-2019 07:15:58 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 26
+[18-Feb-2019 07:16:03 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 26
+[18-Feb-2019 07:16:06 America/Chicago] PHP Warning:  Division by zero in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 26
+[18-Feb-2019 08:37:09 America/Chicago] PHP Fatal error:  Call to a member function fetch() on string in /home/agenc215/agilexray.agenciajudito.com/relatorio_individual_agile.php on line 18
